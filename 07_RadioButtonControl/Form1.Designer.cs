@@ -64,10 +64,13 @@
             this.radioButton2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioButton2.Location = new System.Drawing.Point(52, 161);
             this.radioButton2.Name = "radioButton2";
-            this.radioButton2.Size = new System.Drawing.Size(84, 29);
+
+            this.radioButton2.Size = new System.Drawing.Size(180, 24);
             this.radioButton2.TabIndex = 1;
             this.radioButton2.TabStop = true;
-            this.radioButton2.Text = "India";
+            this.radioButton2.Text = "radioButton2323232";
+
+
             this.radioButton2.UseVisualStyleBackColor = true;
             // 
             // radioButton3
