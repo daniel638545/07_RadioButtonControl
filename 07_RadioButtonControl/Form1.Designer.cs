@@ -50,10 +50,10 @@
             this.radioButton1.AutoSize = true;
             this.radioButton1.Location = new System.Drawing.Point(52, 116);
             this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(126, 24);
+            this.radioButton1.Size = new System.Drawing.Size(95, 24);
             this.radioButton1.TabIndex = 1;
             this.radioButton1.TabStop = true;
-            this.radioButton1.Text = "radioButton1";
+            this.radioButton1.Text = "Pakistan";
             this.radioButton1.UseVisualStyleBackColor = true;
             // 
             // radioButton2
