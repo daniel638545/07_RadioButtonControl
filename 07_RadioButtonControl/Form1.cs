@@ -21,5 +21,26 @@ namespace _07_RadioButtonControl
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if(radioButton1.Checked ==true)
+            {
+                MessageBox.Show("Wybrales " + radioButton1.Text);
+            }
+            else if(radioButton2.Checked == true)
+            {
+                MessageBox.Show("Wybrales " + radioButton2.Text);
+            }
+            else if(radioButton3.Checked == true)
+            {
+                MessageBox.Show("Wybrales " + radioButton3.Text);
+            }
+            else
+            {
+                MessageBox.Show("Wybierz cos zioom");
+            }
+
+        }
     }
 }
